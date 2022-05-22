@@ -4,8 +4,6 @@ class WelcomeMessage extends StatelessWidget
 {
   const WelcomeMessage({Key? key}) : super(key: key);
 
-  //comentário de teste.
-
   @override
   Widget build(BuildContext context) {
     return const Center(
