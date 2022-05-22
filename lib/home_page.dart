@@ -10,7 +10,7 @@ class HomePage extends StatefulWidget
 
 class HomePageState extends State<HomePage>
 {
-  //add este comentário para teste.
+
   int cont = 0;
 
   @override
