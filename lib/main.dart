@@ -8,4 +8,6 @@ void main()
   //método de chamada principal.
   runApp(HomePage());
 
+  //testando discarte de modificações via pull request.
+
 }
