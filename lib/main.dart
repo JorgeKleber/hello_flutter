@@ -6,6 +6,7 @@ import 'home_page.dart';
 void main()
 {
   //método de chamada principal.
+  //teste
   runApp(HomePage());
 
 }
